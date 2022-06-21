@@ -140,7 +140,7 @@ header {
     margin-top: 0;
     width: 100%;
     height: 800px;
-    background-image: url(casa-28.jpg);
+    background-image: url(fotopantalla1.webp);
     background-attachment: fixed;
     background-size: cover;
     background-position: 50%;
@@ -437,7 +437,7 @@ div {
 }
 
 .n_foto {
-    background-image: url(fertilisanta.jpg);
+    background-image: url(imagen2.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
